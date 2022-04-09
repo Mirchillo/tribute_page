@@ -1,0 +1,68 @@
+body{
+    background-color: #212F3D;
+    color: white;
+}
+
+p{
+    color: white;
+    font-size: 17px;
+}
+
+.top_bar{
+    background-color: #17202A;
+    padding: 15px;
+    border-bottom: 2px solid white;
+}
+
+.top_bar h1{
+
+    padding-bottom: 10px;
+
+}
+
+.top_bar h1, h3{
+    font-weight: 300;
+    color: white;
+}  
+
+.top_bar h3{
+    color: #ffffffbb;
+}
+
+
+.margin{
+    margin: 0px;
+}
+
+#alanzoka_image{
+    margin-top: 40px;
+    width: 300px;
+
+}
+
+.image_description{
+    margin-top: 10px;
+}
+
+.content{
+    background-color: #263747;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    margin-top: 50px;
+}
+
+.image{
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.content p{
+    text-align: justify;
+}
+
+.table{
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
